@@ -8,6 +8,9 @@ out/
 # VS Code
 .vscode/
 
+# Local reference documents
+doc/
+
 # Maven / Java build outputs
 **/target/
 *.class
